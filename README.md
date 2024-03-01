@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Wayne</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
-<p align="center">I am struggling to become a good developer.</p>
+# Hello there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waynekim92&label=Profile%20views&color=0e75b6&style=flat" alt="waynekim92" /> </p>
+## Tech Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waynekim92" alt="waynekim92" /></a> </p>
+- Languages: typescript
+- Frameworks: react, react-native, react-native-web, nextjs, electron, supabase
+- Others: figma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Email: sumel014@naver.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waynekim92&show_icons=true&locale=en&layout=compact" alt="waynekim92" /></p>
+## Miscellaneous
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waynekim92&show_icons=true&locale=en" alt="waynekim92" /></p>
+| NB | NB | NB | NB |
+|---------|---------|---------|---------|
+| ![dog-face](https://github.com/WayneKim92/WayneKim92/assets/75321423/0f039b4a-d174-46e5-99c4-4045c7810946) | ![dog-face-with-food](https://github.com/WayneKim92/WayneKim92/assets/75321423/38ea629c-029b-43f0-87ef-c3f1f67c1ea8) | ![dog-face-with-sunglass](https://github.com/WayneKim92/WayneKim92/assets/75321423/c7b674cc-e1a3-4025-84a8-cdbd793987d0) | ![dog-face-with-crown](https://github.com/WayneKim92/WayneKim92/assets/75321423/7d47dd5b-c605-4fec-b594-f7d78bc66fe9) | ![dog-face-with-stand-ear](https://github.com/WayneKim92/WayneKim92/assets/75321423/38ee56da-14fd-416c-a46f-e177c02fadd3) |
+![dog-face-tung](https://github.com/WayneKim92/WayneKim92/assets/75321423/731d86eb-e322-4f38-a2ea-63a69b68b71d) | ![dog-face-with-hand](https://github.com/WayneKim92/WayneKim92/assets/75321423/63ad22be-3b46-4f34-9f48-27ea091cf3f5) | ![dog-face-smile](https://github.com/WayneKim92/WayneKim92/assets/75321423/5a7e52cb-93c3-44be-b0a6-97ab551bc741) | ![dog-face-real-happy](https://github.com/WayneKim92/WayneKim92/assets/75321423/f75ca3b4-4b39-4ae4-bf60-1ea17f14fea5)
+![dog-support](https://github.com/WayneKim92/WayneKim92/assets/75321423/5cccac1f-412f-4e35-b166-fc65fd509bda) | ![dog-face-with-stand-ear](https://github.com/WayneKim92/WayneKim92/assets/75321423/6103262c-093a-4406-801b-5618d89a2069) | <img src="https://github.com/WayneKim92/WayneKim92/assets/75321423/c5e40ce0-fc27-4fa3-b93d-585e2a27123b" alt="Give me a github star" width="150" height="150">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waynekim92&" alt="waynekim92" /></p>
+
