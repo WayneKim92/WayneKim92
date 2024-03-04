@@ -5,7 +5,7 @@ JUST DO IT.
 
 - Languages: typescript
 - Frameworks: react, react-native, react-native-web, nextjs, electron, supabase
-- Others: figma
+- Others: figma, app/play store review and distribution
 
 ## Contact
 
