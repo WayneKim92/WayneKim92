@@ -11,7 +11,7 @@ JUST DO IT.
 
 - Email: sumel014@naver.com
 
-## Miscellaneous
+## NB Emoticons
 
 | NB | NB | NB | NB |
 |---------|---------|---------|---------|
@@ -20,4 +20,11 @@ JUST DO IT.
 | ![dog-support](https://github.com/WayneKim92/WayneKim92/assets/75321423/5cccac1f-412f-4e35-b166-fc65fd509bda) | ![dog-face-with-stand-ear](https://github.com/WayneKim92/WayneKim92/assets/75321423/6103262c-093a-4406-801b-5618d89a2069) | <img src="https://github.com/WayneKim92/WayneKim92/assets/75321423/7af89392-ec4b-47a1-8d5a-0e0476c63a1b" alt="Real NB" height="150" /> | ![cool-nb-v2](https://github.com/WayneKim92/WayneKim92/assets/75321423/29343ad1-8a3e-40af-b31d-af94e1c12fbc)
 |![cool-nb-v3](https://github.com/WayneKim92/WayneKim92/assets/75321423/ec2fe2f1-1eff-4946-92cd-e07953ba10e3) | ![nb-loading](https://github.com/WayneKim92/WayneKim92/assets/75321423/5c2832cf-0ad3-4d28-99fb-1e4cae5705e1)
 
-
+## Drawing
+<table>
+  <tr>
+    <td>
+      <video src="https://github.com/WayneKim92/WayneKim92/assets/75321423/47d4f0f8-9344-41e5-a27c-0e3c0b8aeb62" alt="0~2100" />
+    </td>
+  </tr>
+</table>
