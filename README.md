@@ -10,6 +10,7 @@ JUST DO IT.
 ## Contact
 
 - Email: sumel014@naver.com
+- NB insta: https://www.instagram.com/nb_ig0707
 
 ## NB Emoticons
 
