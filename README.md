@@ -32,5 +32,8 @@ JUST DO IT.
     <td>
       <video src="https://github.com/WayneKim92/WayneKim92/assets/75321423/47d4f0f8-9344-41e5-a27c-0e3c0b8aeb62" alt="0~2100" />
     </td>
+    <td>
+        <video src="https://github.com/user-attachments/assets/e5dce43e-1b51-4115-b600-c8c939425199" alt="ㄱ~ㅎ" />
+    </td>
   </tr>
 </table>
