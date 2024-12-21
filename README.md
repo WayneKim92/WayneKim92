@@ -7,6 +7,9 @@ JUST DO IT.
 - Frameworks: react, react-native, react-native-web, nextjs, electron, supabase
 - Others: figma, app/play store review and distribution
 
+## Blog
+- https://waynekim92.github.io
+
 ## Contact
 
 - Email: sumel014@naver.com
