@@ -1,21 +1,23 @@
 # Hello there! 👋
 JUST DO IT.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - Languages: typescript
 - Frameworks: react, react-native, react-native-web, nextjs, electron, supabase
 - Others: figma, app/play store review and distribution
 
-## Blog
+## 📈 GitHub Stats
+![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneKim92&show_icons=true&theme=radical)
+
+## 📝 Blog
 - https://waynekim92.github.io
 
-## Contact
-
+## 📪 Contact
 - Email: sumel014@naver.com
 - NB insta: https://www.instagram.com/nb_ig0707
 
-## Drawing
+## 🎨 Drawing, Animation
 
 | NB | - | - | - |
 |---------|---------|---------|---------|
@@ -26,7 +28,6 @@ JUST DO IT.
 |  ![image](https://github.com/user-attachments/assets/13fa6da0-ce23-4b57-9717-071b0df9088c) |  ![dog legs](https://github.com/user-attachments/assets/52f122d0-e347-4624-be4c-ed7e8529fbd0) | ![dog hand and head](https://github.com/user-attachments/assets/5fd10d70-21a9-4106-95bf-c6e5c4c7947c) |![run-skeleton](https://github.com/user-attachments/assets/9b83245e-e166-4ce0-b02f-e1286ce712c0) |
 | <img src="https://github.com/user-attachments/assets/254844c6-9c5c-480f-b265-a7d12e4585d1" width="150" /> | <img src="https://github.com/user-attachments/assets/6a8872df-6c82-49c2-ae34-49ab840f49a8" width="200" /> |  <img src="https://github.com/user-attachments/assets/a81dbac9-aeaf-4e7e-ba02-d44c14a6d1a7" width="200" /> | <img src="https://github.com/user-attachments/assets/e7a5759a-e809-4960-ad9a-9a511801e8d9" width="200" /> | 
  
-## Animation
 <table>
   <tr>
     <td>
