@@ -37,4 +37,12 @@ JUST DO IT.
         <video src="https://github.com/user-attachments/assets/e5dce43e-1b51-4115-b600-c8c939425199" alt="ㄱ~ㅎ" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/4bb15f3b-02eb-4044-861b-ac902d87b9db" alt="first nb rigging" />
+
+    </td>
+    <td>
+    </td>
+  </tr>
 </table>
