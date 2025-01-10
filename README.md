@@ -27,7 +27,7 @@ JUST DO IT.
 |![cool-nb-v3](https://github.com/WayneKim92/WayneKim92/assets/75321423/ec2fe2f1-1eff-4946-92cd-e07953ba10e3) | ![nb-loading](https://github.com/WayneKim92/WayneKim92/assets/75321423/5c2832cf-0ad3-4d28-99fb-1e4cae5705e1) | ![IMG_0016](https://github.com/WayneKim92/WayneKim92/assets/75321423/4a189a70-0cac-412c-91b5-cbb613186a57) | <img src="https://github.com/user-attachments/assets/cab21779-9bc0-4e9a-8119-8290a25f3bbd" width="150" />
 |  ![image](https://github.com/user-attachments/assets/13fa6da0-ce23-4b57-9717-071b0df9088c) |  ![dog legs](https://github.com/user-attachments/assets/52f122d0-e347-4624-be4c-ed7e8529fbd0) | ![dog hand and head](https://github.com/user-attachments/assets/5fd10d70-21a9-4106-95bf-c6e5c4c7947c) |![run-skeleton](https://github.com/user-attachments/assets/9b83245e-e166-4ce0-b02f-e1286ce712c0) |
 | <img src="https://github.com/user-attachments/assets/254844c6-9c5c-480f-b265-a7d12e4585d1" width="150" /> | <img src="https://github.com/user-attachments/assets/6a8872df-6c82-49c2-ae34-49ab840f49a8" width="200" /> | <img src="https://github.com/user-attachments/assets/a81dbac9-aeaf-4e7e-ba02-d44c14a6d1a7" width="200" /> | <img src="https://github.com/user-attachments/assets/e7a5759a-e809-4960-ad9a-9a511801e8d9" width="200" /> |
-| <img src="https://github.com/user-attachments/assets/0f25e0c2-f778-4041-b999-664496015560" width="200" /> |  | |
+| <img src="https://github.com/user-attachments/assets/0f25e0c2-f778-4041-b999-664496015560" width="200" /> | <img width="200" src="https://github.com/user-attachments/assets/9b1192d6-767c-42ca-b77f-66fa06f5ec41" /> | <img src="https://github.com/user-attachments/assets/8e352ccd-8199-4d70-a0d0-bec769072c4a" width="200" /> | |
 
 <table>
   <tr>
