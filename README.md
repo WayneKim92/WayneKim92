@@ -5,7 +5,7 @@ JUST DO IT.
 
 - Languages: typescript
 - Frameworks: react, react-native, react-native-web, nextjs, electron, supabase
-- Others: figma, app/play store review and distribution
+- Others: figma, moho, procreate
 
 ## 📈 GitHub Stats
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneKim92&show_icons=true&theme=radical)
