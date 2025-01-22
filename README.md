@@ -1,3 +1,6 @@
+![WAYNE_final](https://github.com/user-attachments/assets/c55c3b58-5e76-4dc7-968c-11f485d49131)
+
+
 # Hello there! 👋
 JUST DO IT.
 
