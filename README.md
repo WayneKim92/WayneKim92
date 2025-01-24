@@ -7,7 +7,7 @@ JUST DO IT.
 ## 🛠️ Tech Stack
 
 - Languages: typescript
-- Frameworks: react, react-native, react-native-web, nextjs, electron, supabase
+- Frameworks: react, react-native, react-native-web, nextjs, electron, supabase, godot
 - Others: figma, moho, procreate
 
 ## 📈 GitHub Stats
