@@ -3,6 +3,16 @@
 
 # Hello there! 👋
 JUST DO IT.
+<table>
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/906e5e33-d432-45b9-addd-051acad7abe1" alt="just-do-it" />
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/b528ab85-f8c0-4520-9124-e4e51de39216" alt="jumping jack" />
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +57,6 @@ JUST DO IT.
       <video src="https://github.com/user-attachments/assets/4bb15f3b-02eb-4044-861b-ac902d87b9db" alt="first nb rigging" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/a6c57fda-6ef7-4739-86c8-604d6a331a59" />
     </td>
   </tr>
 </table>
