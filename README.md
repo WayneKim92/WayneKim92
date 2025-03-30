@@ -8,7 +8,7 @@ JUST DO IT.
 
 - Languages: typescript
 - Frameworks: react, react-native, react-native-web, nextjs, electron, supabase, godot
-- Others: figma, moho, procreate
+- Others: figma, moho, procreate, aseprite
 
 ## 📈 GitHub Stats
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneKim92&show_icons=true&theme=radical)
