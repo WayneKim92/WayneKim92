@@ -1,19 +1,6 @@
 # Hello there! 👋
 JUST DO IT.
 
-## NB0707
-<table>
-  <tr>
-    <td>
-      <video src="https://github.com/user-attachments/assets/04cb9160-77fe-477f-8546-c6b205eedb82" width="300" />
-    </td>
-  </tr>
-</table>
-
- - [App store](https://apps.apple.com/kr/app/nb0707/id6749235153)
- - [Play store](https://play.google.com/store/apps/details?id=com.wayne.nb0707&hl=ko)
-
-
 ## 🛠️ Tech Stack
 
 - Languages: typescript
@@ -60,6 +47,10 @@ JUST DO IT.
       <video src="https://github.com/user-attachments/assets/4bb15f3b-02eb-4044-861b-ac902d87b9db" alt="first nb rigging" />
     </td>
     <td>
+      iOS https://apps.apple.com/kr/app/nb0707/id6749235153 <br/>
+      Android https://play.google.com/store/apps/details?id=com.wayne.nb0707
+      <video src="https://github.com/user-attachments/assets/04cb9160-77fe-477f-8546-c6b205eedb82" width="300" />
+      
     </td>
   </tr>
 </table>
