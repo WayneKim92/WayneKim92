@@ -21,12 +21,10 @@
 
   <tr>
     <th>
-      NB0707 - <a href="https://play.google.com/store/apps/details?id=com.wayne.nb0707">Android</a> / <a href="https://apps.apple.com/kr/app/nb0707/id6749235153
-nb0707">iOS</a>
+      NB0707 - <a href="https://play.google.com/store/apps/details?id=com.wayne.nb0707">Android</a> / <a href="https://apps.apple.com/kr/app/nb0707/id6749235153">iOS</a>
     </th>
     <th>
-      Dice -<a href="https://apps.apple.com/kr/app/%ED%98%BC%EB%8F%88%EC%9D%98-%EC%A3%BC%EC%82%AC%EC%9C%84/id6473676216
-혼돈의 주사위">iOS</a>
+      Dice - <a href="https://apps.apple.com/kr/app/%ED%98%BC%EB%8F%88%EC%9D%98-%EC%A3%BC%EC%82%AC%EC%9C%84/id6473676216">iOS</a>
     </th>
   </tr>
   <tr>
@@ -34,7 +32,7 @@ nb0707">iOS</a>
       <img src="https://github.com/user-attachments/assets/9bcfef9d-ccf1-4c4a-98ea-cadffc5d0173" width=478 />
     </td>
     <td>
-      <img src="" width=478 />
+      <img src="https://github.com/user-attachments/assets/313e6949-d17e-49e9-8b1d-c61ecbb5a2d2" width=478 />
     </td>
   </tr>
   
