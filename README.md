@@ -7,8 +7,7 @@
         Undefiend - In Progress
     </th>
     <th>
-      One Arm - <a href="https://play.google.com/store/apps/details?id=pe.wayne.one_arm">Android</a> / <a href="https://apps.apple.com/kr/app/%ED%95%9C-%ED%8C%94/id6756837824
-한 팔">iOS</a>
+      One Arm - <a href="https://play.google.com/store/apps/details?id=pe.wayne.one_arm">Android</a> / <a href="https://apps.apple.com/kr/app/%ED%95%9C-%ED%8C%94/id6756837824">iOS</a>
     </th>
   </tr>
   <tr>
