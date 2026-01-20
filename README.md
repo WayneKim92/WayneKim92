@@ -12,10 +12,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/de1c14e8-ec36-443c-922a-b9788f3fb3a9" width=300 />
+      <img src="https://github.com/user-attachments/assets/de1c14e8-ec36-443c-922a-b9788f3fb3a9" width=350 />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d7c2bb78-97a8-41ea-94d5-9988ebcdf207" width=300 />
+      <img src="https://github.com/user-attachments/assets/d7c2bb78-97a8-41ea-94d5-9988ebcdf207" width=350 />
     </td>
   </tr>
 
@@ -29,10 +29,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/9bcfef9d-ccf1-4c4a-98ea-cadffc5d0173" width=300 />
+      <img src="https://github.com/user-attachments/assets/9bcfef9d-ccf1-4c4a-98ea-cadffc5d0173" width=350 />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/313e6949-d17e-49e9-8b1d-c61ecbb5a2d2" width=300 />
+      <img src="https://github.com/user-attachments/assets/313e6949-d17e-49e9-8b1d-c61ecbb5a2d2" width=350 />
     </td>
   </tr>
   
