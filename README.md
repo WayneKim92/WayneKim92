@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>
-        Undefiend - In Progress
+        Raining Animals - In Progress
     </th>
     <th>
       One Arm - <a href="https://play.google.com/store/apps/details?id=pe.wayne.one_arm">Android</a> / <a href="https://apps.apple.com/kr/app/%ED%95%9C-%ED%8C%94/id6756837824">iOS</a>
@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/de1c14e8-ec36-443c-922a-b9788f3fb3a9" width=350 />
+      <img src="https://github.com/user-attachments/assets/fbdfd4a8-46a4-45b8-a1f0-1af12c331f5a" width=350 />
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/d7c2bb78-97a8-41ea-94d5-9988ebcdf207" width=350 />
