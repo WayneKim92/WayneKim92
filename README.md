@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 ## 📱 JUST DO IT
-[Pocket Sisyphus](https://apps.apple.com/kr/app/pocket-sisyphus/id6772206998)
+Animal Tag~
 
 ## 🛠️ Tech Stack
 - Languages: typescript, gdscript
